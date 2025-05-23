@@ -1,6 +1,5 @@
 /***************************************************************************************************************************************************
  *Author	: Omkar Irappanavar
- *Date		:Mon 22 May 2017 14:00:05 IST
  *File		:main.c
  *Title		:Driver function
  *Description	:This function acts like the driver function for the project inverted search
